@@ -1,0 +1,20 @@
+@charset "utf-8";
+circle {
+	fill: #6C567B;
+}
+path {
+	fill: #6C567B;
+}
+rect {
+    fill: #6C567B;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+text {
+    fill: #FDF9EA;
+    font-family: Bahnschrift;
+    font-style: SemiBold;
+}
+body {
+    background-color: #FDF9EA;
+}
